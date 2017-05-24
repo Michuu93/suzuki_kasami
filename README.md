@@ -1,2 +1,3 @@
-# suzuki_kasami
+# Suzuki-Kasami algorithm
 Suzuki-Kasami algorithm in Python and MPI (mpi4py)
+[a link](https://en.wikipedia.org/wiki/Suzuki-Kasami_algorithm)
